@@ -112,7 +112,7 @@ Singular they
 
 "They/them/theirs" has been used as a 3rd person singular pronoun when the gender of the person is unknown or explicitly unspecified `since the 15th century AD <https://www.oed.com/view/Entry/200700>`_. Despite what self-styled grammar mavens may tell you, we linguists give you full permission to use these pronouns everywhere when you are talking about a generic user or developer, to be inclusive of everyone. Please refer to `On sex and gender`_ for more information on gender.
 
-It is important to remember, though, that when referring to specific individuals, inclusive practice is to use the pronouns they have asked you to use to refer to them! For example, if Vasundhara uses she/her and xe/xyr pronouns, you should say, "She loves birds," or "Xe wrote a song about trilobites."
+It is important to remember, though, that when referring to specific individuals, inclusive practice is to use the pronouns they have asked you to use to refer to them! For example, if Vasundhara uses xe/xem/xyr and they/them/their pronouns, you should say, "Xe loves birds," or "They wrote a song about trilobites."
 
 On sex and gender
 ~~~~~~~~~~~~~~~~~
